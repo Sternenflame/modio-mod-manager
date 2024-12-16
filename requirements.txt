@@ -1,0 +1,7 @@
+mod.io==0.5.0
+PyYAML>=6.0.1
+progress==1.6
+python-dotenv==1.0.0
+requests==2.31.0
+PyQt5==5.15.9
+psutil>=5.9.0

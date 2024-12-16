@@ -1,0 +1,6 @@
+class ModFileNotFound(Exception):
+    ...
+
+
+class WrongUrl(Exception):
+    ...
